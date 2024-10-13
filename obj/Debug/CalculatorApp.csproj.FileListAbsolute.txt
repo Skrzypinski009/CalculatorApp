@@ -1,0 +1,10 @@
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Marek\Documents\CalculatorApp\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
